@@ -1,0 +1,15 @@
+Move dummy_dashboard.py, lifetimes_dashboard.py, retail_products_dashboard.py, rfm_cohort_dashboard.py to 'dashboards' folders while running the project in streamlit
+
+conda create -n streamlit_env python=3.8
+
+conda activate streamlit_env
+
+streamlit run retail_dashboards.py
+
+pip install : lifetimes, matplotlib, seaborn, scikit-learn, PyQt6, PyQt5
+
+2011/08/06  2011/09/12
+
+History Alive Plot for CustomerID:
+uncomment: Line 236 - rfm_cohort_dashboard #plot_history_alive(iterbgf_fit, days_since_birth, sp_trans, "InvoiceDate",                                            ax=plhial_ax)
+#st.pyplot(plhial_fig)
