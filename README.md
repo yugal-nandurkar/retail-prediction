@@ -1,5 +1,3 @@
-Move dummy_dashboard.py, lifetimes_dashboard.py, retail_products_dashboard.py, rfm_cohort_dashboard.py to 'dashboards' folders while running the project in streamlit.
-
 Search for this path in lifetimes_dashboard.py, retail_products_dashboard.py, rfm_cohort_dashboard.py, rfm_board.py and replace it with your own root directory path: C:/Users/Desk/Documents/Working-Projects/0-Retail-Prediction/
 
 Download df and df origins database from following link and place them in root directory of retail prediction project:
