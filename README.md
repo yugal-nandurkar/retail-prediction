@@ -1,3 +1,4 @@
+https://medium.com/@yugalnandurkar5/financial-engineering-in-retail-computer-engineering-project-d50a5db05be6
 https://yugal-nandurkar.hashnode.dev/financial-engineering-in-retail
 
 Search for this path in lifetimes_dashboard.py, retail_products_dashboard.py, rfm_cohort_dashboard.py, rfm_board.py and replace it with your own root directory path: C:/Users/Desk/Documents/Working-Projects/0-Retail-Prediction/
